@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networthitservices.api", "networthitservices.api\networthitservices.api.csproj", "{4C211AB8-D2D6-477E-9BEF-3C44C0C20F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networthitservices.models", "networthitservices.models\networthitservices.models.csproj", "{BE07BE4A-7DA3-46BB-B2C4-09860097241E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C211AB8-D2D6-477E-9BEF-3C44C0C20F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C211AB8-D2D6-477E-9BEF-3C44C0C20F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C211AB8-D2D6-477E-9BEF-3C44C0C20F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C211AB8-D2D6-477E-9BEF-3C44C0C20F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE07BE4A-7DA3-46BB-B2C4-09860097241E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE07BE4A-7DA3-46BB-B2C4-09860097241E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE07BE4A-7DA3-46BB-B2C4-09860097241E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE07BE4A-7DA3-46BB-B2C4-09860097241E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D29655BC-0D4F-4E45-9B4C-E3F60E4C7BC7}
+	EndGlobalSection
+EndGlobal
